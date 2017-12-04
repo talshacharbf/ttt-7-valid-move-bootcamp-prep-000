@@ -17,5 +17,4 @@ def position_taken?(board, index)
     position = true
     end
     position
-
 end
