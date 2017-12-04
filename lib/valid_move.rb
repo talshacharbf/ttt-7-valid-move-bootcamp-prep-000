@@ -5,7 +5,7 @@ move = nil
     move = true
   else
     move = false
-    position
+    move
 end
 
 # re-define your #position_taken? method here, so that you can use it in the #valid_move? method above.
